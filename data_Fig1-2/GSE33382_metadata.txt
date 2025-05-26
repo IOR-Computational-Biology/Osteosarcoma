@@ -1,0 +1,65 @@
+Sample_ID	EFS_Status	EFS_months	OS_Status	OS_months
+clet_l1370	0	246	0	246
+clet_l1378	0	14	1	14
+clet_l1382	0	143	0	143
+clet_l1386	0	105	0	105
+clet_l2068	0	40	0	40
+clet_l2178	0	37	0	37
+clet_l2289	0	135	0	135
+clet_l2292	0	78	0	78
+clet_l2294	0	147	0	147
+clet_l2295	0	97	0	97
+clet_l2297	0	77	0	77
+clet_l2302	0	120	0	120
+clet_l2347	0	33	0	33
+clet_l2376	0	30	0	30
+clet_l2611	0	91	0	91
+clet_l2613	0	40	0	40
+clet_l2615	0	35	0	35
+clet_l2617	0	32	0	32
+clet_l2620	0	219	0	219
+clet_l3443	0	63	0	63
+clet_l3444	0	60	0	60
+clet_l3445	0	60	0	60
+clet_l3453	0	34	0	34
+clet_l3454	0	57	0	57
+clet_l3455	0	18	0	18
+clet_l3456	0	44	0	44
+clet_l3457	0	33	0	33
+clet_l3458	0	26	0	26
+clet_l3459	0	45	0	45
+clet_l3461	0	42	0	42
+clet_l3462	0	27	0	27
+clet_l3464	0	28	0	28
+clet_l3466	0	42	0	42
+clet_l3467	0	18	0	18
+clet_l3469	0	11	0	11
+clet_l3471	0	50	1	50
+clet_l3472	0	38	0	38
+clet_l3473	0	48	0	48
+clet_l3474	0	48	0	48
+clet_l3475	0	60	0	60
+clet_l3476	0	41	0	41
+clet_l3477	0	60	0	60
+clet_l3533	0	15	0	15
+clet_l3535	0	49	0	49
+clet_l3536	0	30	0	30
+clet_l428	0	193	0	193
+clet_l432	0	184	0	184
+clet_l436	0	194	0	194
+clet_l975	0	94	0	94
+clet_l997	0	87	0	87
+clet_l2301	1	27	1	47
+clet_l2616	1	24	0	32
+clet_l3432	1	30	0	37
+clet_l3434	1	25	0	25
+clet_l3441	1	24	0	123
+clet_l3442	1	44	1	110
+clet_l3537	1	36	1	189
+
+
+
+
+
+
+
